@@ -18,6 +18,5 @@ The Zed Attack Proxy (ZAP) is one of the world’s most popular free security to
 
 [![](https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/ZAP-Download.png)](https://www.zaproxy.org/download/)
 
-For more details about ZAP see the new ZAP website at [zaproxy.org](https://www.zaproxy.org/)
 
 [![](https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap-website.png)](https://www.zaproxy.org/)
